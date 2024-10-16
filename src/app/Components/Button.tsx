@@ -1,4 +1,3 @@
-// components/Button.tsx
 import { FiMenu } from 'react-icons/fi';
 
 interface ButtonProps {
